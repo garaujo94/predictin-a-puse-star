@@ -26,18 +26,18 @@ Each candidate is described by 8 continuous variables, and a single class variab
 
 Mean of the integrated profile.Standard deviation of the integrated profile.Excess kurtosis of the integrated profile.Skewness of the integrated profile.Mean of the DM-SNR curve.Standard deviation of the DM-SNR curve.Excess kurtosis of the DM-SNR curve.Skewness of the DM-SNR curve.Class
 
-HTRU 2 Summary 
-17,898 total examples. 
-1,639 positive examples. 
-16,259 negative examples.
-
-Source: https://archive.ics.uci.edu/ml/datasets/HTRU2
-
-Dr Robert Lyon 
-University of Manchester 
-School of Physics and Astronomy 
-Alan Turing Building 
-Manchester M13 9PL 
-United Kingdom 
+HTRU 2 Summary <br>
+17,898 total examples. <br>
+1,639 positive examples. <br>
+16,259 negative examples.<br>
+<br>
+Source: https://archive.ics.uci.edu/ml/datasets/HTRU2<br>
+<br>
+Dr Robert Lyon <br>
+University of Manchester <br>
+School of Physics and Astronomy <br>
+Alan Turing Building <br>
+Manchester M13 9PL <br>
+United Kingdom <br>
 robert.lyon '@' manchester.ac.uk
 
